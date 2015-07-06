@@ -18,4 +18,4 @@ You can start the servlet on the console by `./gradlew jettyRunWar`.
 Marcus Muench
 
 ## License
-specified later
+Apache license
